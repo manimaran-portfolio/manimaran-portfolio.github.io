@@ -15,9 +15,9 @@
 - **Technologies:** Programming/Scripting, API development and Automation Testing 
 - **Technical Expertise:** Python, Java, Shell scripting, SQL and Javascript
 - **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI
-- **Tools:**: Docker, Jenkins
 - **Version Control:** Git
 - **Methodologies:** Agile and waterfall
+- **Others:** Docker, Jenkins, AWS
 - Github projects can be found at [Github](https://github.com/manimaran990)
 - Hacker rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
 
