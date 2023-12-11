@@ -1,5 +1,7 @@
 title: Manimaran G
 #logo: /assets/img/headshot_circle.png
+logo: /assets/img/mani_front_new.jpg
 description: My python developer portfolio
+show_downloads: true
 
 theme: jekyll-theme-minimal
