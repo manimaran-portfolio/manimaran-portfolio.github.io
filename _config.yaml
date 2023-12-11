@@ -1,16 +1,5 @@
 title: Manimaran G
 #logo: /assets/img/headshot_circle.png
-#description: text below image
-
-repositories:
-- [Keras mnist image classifier](https://github.com/manimaran990/mnist_classifier)
-- [Expense Manager: App built using django](https://github.com/manimaran990/expenseTracker)
-- [Second Brain: Personal note taking app](https://github.com/manimaran990/secondBrain)
-    
-# Select which social network share links to show in posts
-social-network-links:
-  email: "manimaran990@gmail.com"
-  linkedin: "https://www.linkedin.com/in/manimaran-g2707/"
-  github: "http://github.com/manimaran990"
+description: My python developer portfolio
 
 theme: jekyll-theme-minimal
