@@ -23,11 +23,11 @@
 # Professional Experience
 
 ## Infosys - Morgan Stanley, Montreal CA - Python Developer
-OCTOBER 2019 - JULY 2023
+OCTOBER 2019 - NOVEMBER 2023
 - **Connectivity Dashboard Development:** Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage multiple jobs seamlessly. Leveraged websockets for efficient communication between services and the front-end.
-SIFMA SPA Implementation: Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation. Remarkably reduced team workload by 70%, enhancing overall operational efficiency.
+- **SIFMA SPA Implementation:** Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation. Remarkably reduced team workload by 70%, enhancing overall operational efficiency.
 - **Regression Framework Development:** Developed a regression framework to execute regression tests and replay exchange messages. Implemented concurrency and queuing mechanisms, resulting in a notable 40% performance improvement for enhanced testing efficiency.
-Wealth Management Team: Spearheaded the development of a pivotal internal project as part of the Xray (test management tool for Jira) team, involving the collection and transformation of Jira data from various sources. Successfully created source data for a Tableau dashboard used by higher management.
+- **Wealth Management Project:** Spearheaded the development of a pivotal internal project as part of the Xray (test management tool for Jira) team, involving the collection and transformation of Jira data from various sources. Successfully created source data for a Tableau dashboard used by higher management.
 - **Test Manager Services:** Designed and maintained a FastAPI-based web service for Xray and Jira integration, serving as a test manager service. This abstract layer facilitated seamless communication with Xray and Jira native REST APIs, offering high-level endpoints for automated test frameworks to upload test results. Additionally, took charge of codebase maintenance in Git and ensured comprehensive unit test coverage for new enhancements and changes.
 
 ## Infosys - CitiBank Client, Chennai India - Technology Engineer
