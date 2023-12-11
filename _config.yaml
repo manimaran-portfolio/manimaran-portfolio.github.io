@@ -1,4 +1,13 @@
 title: Manimaran G
 #logo: /assets/img/headshot_circle.png
 #description: text below image
+
+repositories:
+  - name: Keras mnist image classifier
+    url: https://github.com/manimaran990/mnist_classifier
+  - name: Expense Manager: App built using django
+    url: https://github.com/manimaran990/expenseTracker
+  - name: Second Brain: Personal note taking app
+    url: https://github.com/manimaran990/secondBrain
+
 theme: jekyll-theme-minimal
