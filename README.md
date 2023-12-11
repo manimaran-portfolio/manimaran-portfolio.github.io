@@ -17,8 +17,8 @@
 - **Technical Expertise:** Python, Java, Shell scripting, SQL and Javascript
 - **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI and Jquery
 - **Version Control:** Git
-- Github projects can be found at https://github.com/manimaran990
-- Hacker rank profile: https://www.hackerrank.com/m4n1g
+- Github projects can be found at [Github](https://github.com/manimaran990)
+- Hacker rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
 
 # Professional Experience
 
