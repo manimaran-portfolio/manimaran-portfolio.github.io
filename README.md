@@ -48,6 +48,8 @@ DECEMBER 2015 - SEPTEMBER  2019
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb5a8646-cd28-408f-ab43-a7d4272e4798" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3aa31656-37d1-4466-ba3f-ae2334bdb450" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="852d2d50-5ab1-43e0-ae96-6fbe211cdfdc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1baa609f-b7b6-4cc1-a184-9ef182203540" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c2b129c2-5ca8-4b6f-a4ed-d8c7911f1a8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Client/Infosys Specific Tools/Technology:
 
