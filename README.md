@@ -1,20 +1,27 @@
 # Manimaran G
-## Python Developer | Test Automation Expert | Innovating with Code
+## Python Developer | Test Automation Expert | Cloud | Innovating with Code
 
 
 # Professional Summary
 
-- Results-driven Python developer with 8 years of experience in designing, implementing, testing, and maintaining robust applications.
-- Proven expertise in full-stack development, with a primary focus on Python and related frameworks.
-- Strong problem-solving skills and a track record of delivering high-quality software solutions on time and within budget.
+- **Experience:** 8 years in IT, specializing in Python automation development and testing.
+- **Focus Areas:** Product Implementation, Business Transformation, Data Migration, and ETL Data Warehouse projects, worked in both **Institutional(citi)** and **Investment(Morgan Stanley)** Banking domains.
+- **Specialization:** Expert in Data transformation, analytics and bringing valuable insights from the Banking domain.
+- **Skills:** Python product development, Cloud data engineer, proficient in Selenium (Java/Python) and Cucumber, excelling in cutting-edge LLM models.
+- **Impact:** Ensures enhanced development and testing phases, demonstrating commitment to optimal performance, accuracy, and streamlined workflows for successful project outcomes.
+
 
 # Technical Skills
 
-- **Programming Languages:** Python (primary), JavaScript, HTML, CSS.
-- **Frameworks:** Django, Flask, FastAPI.
-- **Database Systems:** PostgreSQL, MySQL, MongoDB.
-- **Version Control:** Git, GitHub, GitLab.
-- **Tools and Libraries:** Docker, Celery, SQLAlchemy, Pandas, NumPy.
+- **Primary Skill:** Python Developer/Tester and Data Analyst
+- **Operating Systems:** Unix and Windows
+- **Technologies:** Programming/Scripting, API development and Automation Testing 
+- **Technical Expertise:** Python, Java, Shell scripting, SQL and Javascript
+- **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI and Jquery
+- **Version Control:** Git
+- Github projects can be found at https://github.com/manimaran990
+- Hacker rank profile: https://www.hackerrank.com/m4n1g
+
 
 # Professional Experience
 
@@ -36,7 +43,8 @@
 
 # Certifications
 
-- [Optional: Mention relevant certifications like Python Developer Certification, Django Developer Certification, etc.]
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="42212cde-2a66-49d1-bc36-db7ce86a8d71" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- 
 
 # Open Source Contributions
 
