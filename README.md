@@ -14,7 +14,8 @@
 - **Operating Systems:** Unix and Windows
 - **Technologies:** Programming/Scripting, API development and Automation Testing 
 - **Technical Expertise:** Python, Java, Shell scripting, SQL and Javascript
-- **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI and Jquery
+- **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI
+- **Tools:**: Docker, Jenkins
 - **Version Control:** Git
 - **Methodologies:** Agile and waterfall
 - Github projects can be found at [Github](https://github.com/manimaran990)
