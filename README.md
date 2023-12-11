@@ -52,6 +52,29 @@ DECEMBER 2015 - SEPTEMBER  2019
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c2b129c2-5ca8-4b6f-a4ed-d8c7911f1a8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Client/Infosys Specific Tools/Technology:
+**Ingestion Testing Tool (Citi Client):** Extracting the data from various product processors and getting the records from hbase for the validation purpose is a tedious task. The Citi Digitization project has lots of product processors and new product processors are onboard frequently. For the validation as well as regression purpose he created a generic framework with UI to efficiently extract the data and convert them into json format and generate a report in excel with a detailed break report summary.
+**Need for this tool:**  Doing regression and functionality tests on a large dataset and frequency of running those tests manually is challenging. This framework overcomes this problem.
+**Its benefits**:
+- The Ingestion Testing tool has reduced test reporting effort from 40 minutes to 2 minutes on a daily basis for the client for each Product processor.
+- It has a simple UI with various selection options to generate the reports.
+- Faster data retrieval using row prefix filtering the hbase records for the data validation.
+- Can be able to validate 1M records with >300 columns within 3 mins in cluster mode.
+
+**Payment Tracker Tool (Citi Client):**
+Transactions initiated by the client will be flown through many components including various big data tools like kafka, hbase and ignite layers. This utility will help us to find whether all the components are up and running and check the transaction if it got stuck in the middle of the process and to investigate the reason for it. This framework was developed in Java.
+**Need for this tool:** Tracking a payment manually in multiple components is a tedious task. This will overcome this issue.
+**Its benefits:**
+- Environment readiness test requires any of the members from all the environments to ensure whether it’s up or not. This tool helped us to eliminate this dependency and as well as we can use it to check for the readiness of all the components within 1 minute of time.
+- This tool was used by the ERT (Environment Readiness Test) team on a daily basis before initiating payments for all the product processors.
+
+
+**Exchange Connectivity Dashboard (MS client):**
+The Exchange connectivity team is a part of algo-trading. They are the communication bridge between the algo-engines and the actual stock exchanges. Those exchanges are controlled by exchange instances. Main functionality of these exchanges is to send fix-messages to exchanges and get back their response (to fill/ack/cancer the order). I have helped the team to create a SPA dashboard to maintain control of those exchange instances in a single place using FastAPI, flask for backend and jquery, js, css for front-end.
+**Need for this tool:** Previously multiple CLI tools were used to achieve various tasks such as sending fix messages, view logs, netadmin, check status, etc. Which is not a beginner friendly and tedious while copy, pasting message. This web-based dashboard made these redundant tasks more accessible and user friendly.
+**Its benefits:**
+- Single point of access to control those exchange instances.
+- Can be used to check status, restart the instance, send fix messages, view logs, perform netadmin commands on those exchanges.
+
 
 # PERSONAL PROJECTS:
 **Expense Manager:**
