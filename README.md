@@ -1,4 +1,3 @@
-# Manimaran G
 ## Python Developer | Test Automation Expert | Cloud | Innovating with Code
 
 # Professional Summary
@@ -17,6 +16,7 @@
 - **Technical Expertise:** Python, Java, Shell scripting, SQL and Javascript
 - **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI and Jquery
 - **Version Control:** Git
+- **Methodologies:** Agile and waterfall
 - Github projects can be found at [Github](https://github.com/manimaran990)
 - Hacker rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
 
@@ -34,7 +34,7 @@ OCTOBER 2019 - NOVEMBER 2023
 DECEMBER 2015 - SEPTEMBER  2019
 - **Efficient Data Loading:** Implemented shell and Python scripts, leading to an impressive 80% reduction in data loading time for the big data team.
 - **Contribution to Citi-digitization Project:** Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
-- **Hands-on Big Data Experience:** Gained hands-on experience in the Hadoop ecosystem and Spark, optimizing the ETL process by 40% through effective performance tuning methods.
+- **Hands-on Big Data Experience:** Gained hands-on experience in the Hadoop ecosystem like Hive, HDFS, spark/pyspark tools, optimizing the big data ETL process by 40% through effective performance tuning methods.
 - **Regression Framework Development:** Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers. This framework seamlessly handled up to 1 million records.
 - **Testing Proficiency:** Demonstrated expertise in testing by implementing comprehensive test coverage and unit tests using Python frameworks
 
