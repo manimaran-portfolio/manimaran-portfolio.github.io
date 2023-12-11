@@ -24,19 +24,19 @@
 
 ## Infosys - Morgan Stanley, Montreal CA - Python Developer
 OCTOBER 2019 - JULY 2023
-**Connectivity Dashboard Development:** Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage multiple jobs seamlessly. Leveraged websockets for efficient communication between services and the front-end.
+- **Connectivity Dashboard Development:** Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage multiple jobs seamlessly. Leveraged websockets for efficient communication between services and the front-end.
 SIFMA SPA Implementation: Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation. Remarkably reduced team workload by 70%, enhancing overall operational efficiency.
-**Regression Framework Development:** Developed a regression framework to execute regression tests and replay exchange messages. Implemented concurrency and queuing mechanisms, resulting in a notable 40% performance improvement for enhanced testing efficiency.
+- **Regression Framework Development:** Developed a regression framework to execute regression tests and replay exchange messages. Implemented concurrency and queuing mechanisms, resulting in a notable 40% performance improvement for enhanced testing efficiency.
 Wealth Management Team: Spearheaded the development of a pivotal internal project as part of the Xray (test management tool for Jira) team, involving the collection and transformation of Jira data from various sources. Successfully created source data for a Tableau dashboard used by higher management.
-**Test Manager Services:** Designed and maintained a FastAPI-based web service for Xray and Jira integration, serving as a test manager service. This abstract layer facilitated seamless communication with Xray and Jira native REST APIs, offering high-level endpoints for automated test frameworks to upload test results. Additionally, took charge of codebase maintenance in Git and ensured comprehensive unit test coverage for new enhancements and changes.
+- **Test Manager Services:** Designed and maintained a FastAPI-based web service for Xray and Jira integration, serving as a test manager service. This abstract layer facilitated seamless communication with Xray and Jira native REST APIs, offering high-level endpoints for automated test frameworks to upload test results. Additionally, took charge of codebase maintenance in Git and ensured comprehensive unit test coverage for new enhancements and changes.
 
 ## Infosys - CitiBank Client, Chennai India - Technology Engineer
 DECEMBER 2015 - SEPTEMBER  2019
-**Efficient Data Loading: ** Implemented shell and Python scripts, leading to an impressive 80% reduction in data loading time for the big data team.
-**Contribution to Citi-digitization Project:** Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
-**Hands-on Big Data Experience: ** Gained hands-on experience in the Hadoop ecosystem and Spark, optimizing the ETL process by 40% through effective performance tuning methods.
-**Regression Framework Development: ** Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers. This framework seamlessly handled up to 1 million records.
-**Testing Proficiency:** Demonstrated expertise in testing by implementing comprehensive test coverage and unit tests using Python frameworks
+- **Efficient Data Loading:** Implemented shell and Python scripts, leading to an impressive 80% reduction in data loading time for the big data team.
+- **Contribution to Citi-digitization Project:** Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
+- **Hands-on Big Data Experience:** Gained hands-on experience in the Hadoop ecosystem and Spark, optimizing the ETL process by 40% through effective performance tuning methods.
+- **Regression Framework Development:** Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers. This framework seamlessly handled up to 1 million records.
+- **Testing Proficiency:** Demonstrated expertise in testing by implementing comprehensive test coverage and unit tests using Python frameworks
 
 # Education
 
@@ -45,6 +45,9 @@ DECEMBER 2015 - SEPTEMBER  2019
 # Certifications
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="42212cde-2a66-49d1-bc36-db7ce86a8d71" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb5a8646-cd28-408f-ab43-a7d4272e4798" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3aa31656-37d1-4466-ba3f-ae2334bdb450" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="852d2d50-5ab1-43e0-ae96-6fbe211cdfdc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Client/Infosys Specific Tools/Technology:
 
