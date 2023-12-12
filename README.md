@@ -1,43 +1,43 @@
-## Python Developer | Test Automation Expert | Cloud | Innovating with Code
+## Python Developer | Test Automation Engineer | Cloud Practitioner
 
 # Professional Summary
 
-- **Experience:** 8 years in IT, specializing in Python automation development and testing.
-- **Focus Areas:** Product Implementation, Business Transformation, Data Migration, and ETL Data Warehouse projects, worked in both **Institutional(citi)** and **Investment(Morgan Stanley)** Banking domains.
-- **Specialization:** Expert in Data transformation, analytics and bringing valuable insights from the Banking domain.
-- **Skills:** Python product development, Cloud data engineer, proficient in Selenium (Java/Python) and Cucumber, excelling in cutting-edge LLM models.
-- **Impact:** Ensures enhanced development and testing phases, demonstrating commitment to optimal performance, accuracy, and streamlined workflows for successful project outcomes.
+I am a Python developer with 8 years of experience in automation development and testing, data analysis, and cloud engineering. I have successfully delivered innovative solutions for leading banking clients such as CitiBank and Morgan Stanley, using cutting-edge technologies and frameworks. I am seeking a challenging opportunity to apply my skills and expertise in a dynamic and collaborative environment.
 
 # Technical Skills
 
-- **Primary Skill:** Python Developer/Tester and Data Analyst
-- **Operating Systems:** Unix and Windows
-- **Technologies:** Programming/Scripting, API development and Automation Testing 
-- **Technical Expertise:** Python, Java, Shell scripting, SQL and Javascript
-- **Frameworks:** Selenium, Cucumber,  Flask, Pandas, Pytest, FastAPI
-- **Version Control:** Git
-- **Methodologies:** Agile and waterfall
-- **Others:** Docker, Jenkins, AWS
-- Github projects can be found at [Github](https://github.com/manimaran990)
-- Hacker rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
+- **Programming Languages**: Python, Java, SQL, Shell scripting, JavaScript
+- **Web Development**: Flask, FastAPI, HTML, CSS, jQuery
+- **Data Analysis**: Pandas, PySpark, Hadoop, Hive, HBase
+- **Testing**: Selenium, Cucumber, Pytest, Xray, Jira
+- **Cloud**: AWS, Docker, Jenkins
+- **Version Control**: Git
+- My Github Repositories: [Github](https://github.com/manimaran990)
+- Hacker-rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
 
 # Professional Experience
 
 ## Infosys - Morgan Stanley, Montreal CA - Python Developer
 OCTOBER 2019 - NOVEMBER 2023
-- **Connectivity Dashboard Development:** Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage multiple jobs seamlessly. Leveraged websockets for efficient communication between services and the front-end.
-- **SIFMA SPA Implementation:** Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation. Remarkably reduced team workload by 70%, enhancing overall operational efficiency.
-- **Regression Framework Development:** Developed a regression framework to execute regression tests and replay exchange messages. Implemented concurrency and queuing mechanisms, resulting in a notable 40% performance improvement for enhanced testing efficiency.
-- **Wealth Management Project:** Spearheaded the development of a pivotal internal project as part of the Xray (test management tool for Jira) team, involving the collection and transformation of Jira data from various sources. Successfully created source data for a Tableau dashboard used by higher management.
-- **Test Manager Services:** Designed and maintained a FastAPI-based web service for Xray and Jira integration, serving as a test manager service. This abstract layer facilitated seamless communication with Xray and Jira native REST APIs, offering high-level endpoints for automated test frameworks to upload test results. Additionally, took charge of codebase maintenance in Git and ensured comprehensive unit test coverage for new enhancements and changes.
+- Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage multiple jobs seamlessly.
+- Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation.
+- Developed a regression framework to execute regression tests and replay exchange messages, resulting in a notable 40% performance improvement for enhanced testing efficiency.
+- Spearheaded the development of a pivotal internal project as part of the Xray team, involving the collection and transformation of Jira data from various sources.
+
+## Infosys - Morgan Stanley(Offshore), India - Python Developer
+- Did data collection/cleaning on jira data from multiple data sources, used by high level managers using tableau dashboard.
+- Used python for extraction and cleaning of raw data of multiple types like excel, streaming and flat file format.
+- Automated execution of ETL process using jenkins pipeline, written unit tests using pytest and testplan framework.
+- Designed and maintained a FastAPI-based web service for Xray and Jira integration, serving as a test manager service.
+- These services are multiple internal teams to automate their tests/test execution and maintained jira sanity for those respective projects.
 
 ## Infosys - CitiBank Client, Chennai India - Technology Engineer
 DECEMBER 2015 - SEPTEMBER  2019
-- **Efficient Data Loading:** Implemented shell and Python scripts, leading to an impressive 80% reduction in data loading time for the big data team.
-- **Contribution to Citi-digitization Project:** Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
-- **Hands-on Big Data Experience:** Gained hands-on experience in the Hadoop ecosystem like Hive, HDFS, spark/pyspark tools, optimizing the big data ETL process by 40% through effective performance tuning methods.
-- **Regression Framework Development:** Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers. This framework seamlessly handled up to 1 million records.
-- **Testing Proficiency:** Demonstrated expertise in testing by implementing comprehensive test coverage and unit tests using Python frameworks
+- Implemented shell and Python scripts, leading to an impressive 80% reduction in data loading time for the big data team.
+- Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
+- Gained hands-on experience in the Hadoop ecosystem, optimizing the big data ETL process by 40% through effective performance tuning methods.
+- Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers.
+- Demonstrated expertise in testing by implementing comprehensive test coverage and unit tests using Python frameworks.
 
 # Education
 
@@ -67,7 +67,6 @@ Transactions initiated by the client will be flown through many components inclu
 - **Its benefits:**
 - Environment readiness test requires any of the members from all the environments to ensure whether it’s up or not. This tool helped us to eliminate this dependency and as well as we can use it to check for the readiness of all the components within 1 minute of time.
 - This tool was used by the ERT (Environment Readiness Test) team on a daily basis before initiating payments for all the product processors.
-
 
 **Exchange Connectivity Dashboard (MS client):**
 The Exchange connectivity team is a part of algo-trading. They are the communication bridge between the algo-engines and the actual stock exchanges. Those exchanges are controlled by exchange instances. Main functionality of these exchanges is to send fix-messages to exchanges and get back their response (to fill/ack/cancer the order). I have helped the team to create a SPA dashboard to maintain control of those exchange instances in a single place using FastAPI, flask for backend and jquery, js, css for front-end.
