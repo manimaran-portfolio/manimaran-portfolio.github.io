@@ -25,6 +25,8 @@ OCTOBER 2019 - NOVEMBER 2023
 - Spearheaded the development of a pivotal internal project as part of the Xray team, involving the collection and transformation of Jira data from various sources.
 
 ## Infosys - Morgan Stanley(Offshore), India - Python Developer
+SEPTEMBER  2018 - OCTOBER 2019
+
 - Did data collection/cleaning on jira data from multiple data sources, used by high level managers using tableau dashboard.
 - Used python for extraction and cleaning of raw data of multiple types like excel, streaming and flat file format.
 - Automated execution of ETL process using jenkins pipeline, written unit tests using pytest and testplan framework.
@@ -32,7 +34,7 @@ OCTOBER 2019 - NOVEMBER 2023
 - These services are multiple internal teams to automate their tests/test execution and maintained jira sanity for those respective projects.
 
 ## Infosys - CitiBank Client, Chennai India - Technology Engineer
-DECEMBER 2015 - SEPTEMBER  2019
+DECEMBER 2015 - SEPTEMBER  2018
 - Implemented shell and Python scripts, leading to an impressive 80% reduction in data cleansing time for the payment insights project.
 - Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
 - Gained hands-on experience in the Hadoop ecosystem, optimizing the big data ETL process by 40% through effective performance tuning methods.
