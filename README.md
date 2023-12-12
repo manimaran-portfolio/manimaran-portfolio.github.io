@@ -6,13 +6,13 @@ I am a Python developer with 8 years of experience in automation development and
 
 # Technical Skills
 
-- **Programming Languages**: Python, Java, SQL, Shell scripting, JavaScript
+- **Programming Languages**: Python, Java, SQL, Shell scripting
 - **Web Development**: Flask, FastAPI, HTML, CSS, jQuery
 - **Data Analysis**: Pandas, PySpark, Hadoop, Hive, HBase
 - **Testing**: Selenium, Cucumber, Pytest, Xray, Jira
 - **Cloud**: AWS, Docker, Jenkins
 - **Version Control**: Git
-- My Github Repositories: [Github](https://github.com/manimaran990)
+- My GitHub Repositories: [Github](https://github.com/manimaran990)
 - Hacker-rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
 
 # Professional Experience
@@ -33,7 +33,7 @@ OCTOBER 2019 - NOVEMBER 2023
 
 ## Infosys - CitiBank Client, Chennai India - Technology Engineer
 DECEMBER 2015 - SEPTEMBER  2019
-- Implemented shell and Python scripts, leading to an impressive 80% reduction in data loading time for the big data team.
+- Implemented shell and Python scripts, leading to an impressive 80% reduction in data cleansing time for the payment insights project.
 - Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
 - Gained hands-on experience in the Hadoop ecosystem, optimizing the big data ETL process by 40% through effective performance tuning methods.
 - Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers.
@@ -69,7 +69,7 @@ Transactions initiated by the client will be flown through many components inclu
 - This tool was used by the ERT (Environment Readiness Test) team on a daily basis before initiating payments for all the product processors.
 
 **Exchange Connectivity Dashboard (MS client):**
-The Exchange connectivity team is a part of algo-trading. They are the communication bridge between the algo-engines and the actual stock exchanges. Those exchanges are controlled by exchange instances. Main functionality of these exchanges is to send fix-messages to exchanges and get back their response (to fill/ack/cancer the order). I have helped the team to create a SPA dashboard to maintain control of those exchange instances in a single place using FastAPI, flask for backend and jquery, js, css for front-end.
+The Exchange connectivity team is a part of algo-trading. They are the communication bridge between the algo-engines and the actual stock exchanges. Those exchanges are controlled by exchange instances. Main functionality of these exchanges is to send fix-messages to exchanges and get back their response (to fill/ack/cancel the order). I have helped the team to create a SPA dashboard to maintain control of those exchange instances in a single place using FastAPI, flask for backend and jquery, js, css for front-end.
 - **Need for this tool:** Previously multiple CLI tools were used to achieve various tasks such as sending fix messages, view logs, netadmin, check status, etc. Which is not a beginner friendly and tedious while copy, pasting message. This web-based dashboard made these redundant tasks more accessible and user friendly.
 - **Its benefits:**
 - Single point of access to control those exchange instances.
