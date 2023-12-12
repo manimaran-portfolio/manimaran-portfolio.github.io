@@ -2,6 +2,6 @@ title: Manimaran Gandhikumar
 #logo: /assets/img/headshot_circle.png
 logo: /assets/img/mani_front_new-modified.png
 description: My python developer portfolio
-show_downloads: true
+show_downloads: false
 
 theme: jekyll-theme-minimal
