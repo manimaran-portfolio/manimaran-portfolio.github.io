@@ -2,7 +2,7 @@
 
 # Professional Summary
 
-I am a Python developer with 8 years of experience in automation development and testing, data analysis, and cloud engineering. I have successfully delivered innovative solutions for leading banking clients such as CitiBank and Morgan Stanley, using cutting-edge technologies and frameworks. I am seeking a challenging opportunity to apply my skills and expertise in a dynamic and collaborative environment.
+I am a Python SDET with 10 years of experience in automation development and testing, data analysis, and cloud engineering. I have successfully delivered innovative solutions for leading banking clients such as CitiBank and Morgan Stanley, using cutting-edge technologies and frameworks. I am seeking a challenging opportunity to apply my skills and expertise in a dynamic and collaborative environment.
 
 # Technical Skills
 
@@ -17,9 +17,19 @@ I am a Python developer with 8 years of experience in automation development and
 
 # Professional Experience
 
+
+## Cognizant - RBC Client, Toronto CA - Python SDET
+APRIL 2024 - Till Now
+- Working as a SDET/QA in a Market Risk Team. 
+- Designed and developed automation suite for the PIV/Regression for various modules and used in multi environments.
+- Developed a endpoint health dashboard to monitor and do various activities on multiple environment from a single dashboard.
+- Managing offshore team by allocating day to day tasks and encourage them on doing AI first development/testing activities.
+
 ## Infosys - Morgan Stanley, Montreal CA - Python Developer
-OCTOBER 2019 - NOVEMBER 2023
-- Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage multiple jobs seamlessly.
+
+OCTOBER 2019 - APRIL 2024
+
+- Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage -multiple jobs seamlessly.
 - Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation.
 - Developed a regression framework to execute regression tests and replay exchange messages, resulting in a notable 40% performance improvement for enhanced testing efficiency.
 - Spearheaded the development of a pivotal internal project as part of the Xray team, involving the collection and transformation of Jira data from various sources.
