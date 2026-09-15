@@ -1,101 +1,112 @@
-## Python Developer | Test Automation Engineer | Cloud Practitioner
+# Manimaran Gandhikumar
 
-# Professional Summary
+**GenAI Architect & Test Lead | Multi-Agent Systems · RAG · Applied LLM Engineering**
 
-I am a Python SDET with 10 years of experience in automation development and testing, data analysis, and cloud engineering. I have successfully delivered innovative solutions for leading banking clients such as CitiBank and Morgan Stanley, using cutting-edge technologies and frameworks. I am seeking a challenging opportunity to apply my skills and expertise in a dynamic and collaborative environment.
+📍 Mississauga, Ontario, Canada
+🔗 [Portfolio](https://manimaran-portfolio.github.io/) · [LinkedIn](https://www.linkedin.com/in/manimaran-g2707/) · [Credly Badges](https://www.credly.com/users/manimaran-gandhikumar.50614893)
+✉️ manimaran990@gmail.com
 
-# Technical Skills
+---
 
-- **Programming Languages**: Python, Java, SQL, Shell scripting
-- **Web Development**: Flask, FastAPI, HTML, CSS, jQuery
-- **Data Analysis**: Pandas, PySpark, Hadoop, Hive, HBase
-- **Testing**: Selenium, Cucumber, Pytest, Xray, Jira
-- **Cloud**: AWS, Docker, Jenkins
-- **Version Control**: Git
-- My GitHub Repositories: [Github](https://github.com/manimaran990)
-- Hacker-rank profile: [HackerRank](https://www.hackerrank.com/m4n1g)
+## 👋 About Me
 
-# Professional Experience
+Applied AI Architect and GenAI Test Lead with **10 years in Capital Markets and Banking**, building at the intersection of **agentic AI, data engineering, and quality automation**.
 
+At Cognizant (RBC Capital Markets), I architect **self-evolving multi-agent systems** — an AI Agent Factory, Meta Agent routing layer, and custom RAG pipelines — that transform traditional testing lifecycles into autonomous, AI-driven operations, all while meeting stringent financial data governance on real-time (Kafka) and batch (PySpark) platforms.
 
-## Cognizant - RBC Client, Toronto CA - Python SDET
-APRIL 2024 - Till Now
-- Working as a SDET/QA in a Market Risk Team. 
-- Designed and developed automation suite for the PIV/Regression for various modules and used in multi environments.
-- Developed a endpoint health dashboard to monitor and do various activities on multiple environment from a single dashboard.
-- Managing offshore team by allocating day to day tasks and encourage them on doing AI first development/testing activities.
+I'm also a hands-on **self-hosted AI homelabber**: Docker-based local LLM inference (Ollama, Hermes), agent orchestration frameworks, and privacy-first AI tooling.
 
-## Infosys - Morgan Stanley, Montreal CA - Python Developer
+---
 
-OCTOBER 2019 - APRIL 2024
+## 🏆 Certifications
 
-- Engineered a robust connectivity dashboard using FastAPI and Flask, enabling the Exchange Connectivity team to concurrently manage -multiple jobs seamlessly.
-- Designed a Single Page Application for the SIFMA web application, streamlining disaster recovery testing, IP connectivity, order sending/fetching logs, and report generation.
-- Developed a regression framework to execute regression tests and replay exchange messages, resulting in a notable 40% performance improvement for enhanced testing efficiency.
-- Spearheaded the development of a pivotal internal project as part of the Xray team, involving the collection and transformation of Jira data from various sources.
+**Anthropic — Claude Foundations (2026)**
 
-## Infosys - Morgan Stanley(Offshore), India - Python Developer
-SEPTEMBER  2018 - OCTOBER 2019
+- **Claude Certified Architect – Foundations** — Issued Aug 2026 · production-grade design with Claude Code, Agent SDK, API & MCP
+- **Claude Certified Associate – Foundations** — Issued Aug 2026 · business applications, output evaluation & responsible use
+- **Claude Certified Developer – Foundations** — Issued Sep 2026 · building & shipping production apps and agents with Claude API, Claude Code, custom tools & MCP
 
-- Did data collection/cleaning on jira data from multiple data sources, used by high level managers using tableau dashboard.
-- Used python for extraction and cleaning of raw data of multiple types like excel, streaming and flat file format.
-- Automated execution of ETL process using jenkins pipeline, written unit tests using pytest and testplan framework.
-- Designed and maintained a FastAPI-based web service for Xray and Jira integration, serving as a test manager service.
-- These services are multiple internal teams to automate their tests/test execution and maintained jira sanity for those respective projects.
+Full badge wallet: [Credly Profile](https://www.credly.com/users/manimaran-gandhikumar.50614893)
 
-## Infosys - CitiBank Client, Chennai India - Technology Engineer
-DECEMBER 2015 - SEPTEMBER  2018
-- Implemented shell and Python scripts, leading to an impressive 80% reduction in data cleansing time for the payment insights project.
-- Developed various tools and automation solutions using Python and shell scripting, contributing to the efficiency of the Citi-digitization project.
-- Gained hands-on experience in the Hadoop ecosystem, optimizing the big data ETL process by 40% through effective performance tuning methods.
-- Engineered a robust regression framework leveraging Python, automating data validations across multiple project layers.
-- Demonstrated expertise in testing by implementing comprehensive test coverage and unit tests using Python frameworks.
+**Other certifications:** Python for Data Science and AI · Introduction to Data Engineering · Linux Commands & Shell Scripting · ETL and Data Pipelines (Airflow/Kafka) · Python Project for Data Engineering
 
-# Education
+---
 
-- Masters in Computer Applications (MCA) - College of Engineering Guindy, India (2015)
+## 🛠 Technical Skills
 
-# Certifications
+| Domain | Skills |
+|--------|--------|
+| **Generative AI & Agentic Workflows** | Multi-Agent Orchestration (CrewAI, LangChain), Meta Agents (Autonomous Routing), Self-Evolving System Prompts, Semantic Memory Systems |
+| **Applied AI & RAG** | Retrieval-Augmented Generation (RAG), Vector Databases, Context Window Optimization, Open-source LLMs (Ollama, LM Studio) |
+| **AI-Ops & Architecture** | Local LLM Inference, Docker Self-Hosting, Backend APIs (FastAPI, Python), Dashboards (NiceGUI, Streamlit) |
+| **Data & Quality Engineering** | Real-time Streaming (Kafka), Batch (PySpark/Spark), Core Java, Advanced SQL, CI/CD (Jenkins, GitHub Actions) |
+| **Testing & Automation** | Selenium, Pytest, Cucumber, Regression Frameworks, FIX Protocol Testing |
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="42212cde-2a66-49d1-bc36-db7ce86a8d71" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb5a8646-cd28-408f-ab43-a7d4272e4798" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3aa31656-37d1-4466-ba3f-ae2334bdb450" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="852d2d50-5ab1-43e0-ae96-6fbe211cdfdc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1baa609f-b7b6-4cc1-a184-9ef182203540" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c2b129c2-5ca8-4b6f-a4ed-d8c7911f1a8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+---
 
-# Client/Infosys Specific Tools/Technology:
-**Ingestion Testing Tool (Citi Client):** Extracting the data from various product processors and getting the records from hbase for the validation purpose is a tedious task. The Citi Digitization project has lots of product processors and new product processors are onboard frequently. For the validation as well as regression purpose he created a generic framework with UI to efficiently extract the data and convert them into json format and generate a report in excel with a detailed break report summary.
-- **Need for this tool:**  Doing regression and functionality tests on a large dataset and frequency of running those tests manually is challenging. This framework overcomes this problem.
-- **Its benefits**:
-- The Ingestion Testing tool has reduced test reporting effort from 40 minutes to 2 minutes on a daily basis for the client for each Product processor.
-- It has a simple UI with various selection options to generate the reports.
-- Faster data retrieval using row prefix filtering the hbase records for the data validation.
-- Can be able to validate 1M records with >300 columns within 3 mins in cluster mode.
+## 💼 Experience
 
-**Payment Tracker Tool (Citi Client):**
-Transactions initiated by the client will be flown through many components including various big data tools like kafka, hbase and ignite layers. This utility will help us to find whether all the components are up and running and check the transaction if it got stuck in the middle of the process and to investigate the reason for it. This framework was developed in Java.
-- **Need for this tool:** Tracking a payment manually in multiple components is a tedious task. This will overcome this issue.
-- **Its benefits:**
-- Environment readiness test requires any of the members from all the environments to ensure whether it’s up or not. This tool helped us to eliminate this dependency and as well as we can use it to check for the readiness of all the components within 1 minute of time.
-- This tool was used by the ERT (Environment Readiness Test) team on a daily basis before initiating payments for all the product processors.
+### Cognizant — GenAI Developer & Test Architect (RBC Capital Markets)
+*Apr 2024 – Present · Toronto, ON*
 
-**Exchange Connectivity Dashboard (MS client):**
-The Exchange connectivity team is a part of algo-trading. They are the communication bridge between the algo-engines and the actual stock exchanges. Those exchanges are controlled by exchange instances. Main functionality of these exchanges is to send fix-messages to exchanges and get back their response (to fill/ack/cancel the order). I have helped the team to create a SPA dashboard to maintain control of those exchange instances in a single place using FastAPI, flask for backend and jquery, js, css for front-end.
-- **Need for this tool:** Previously multiple CLI tools were used to achieve various tasks such as sending fix messages, view logs, netadmin, check status, etc. Which is not a beginner friendly and tedious while copy, pasting message. This web-based dashboard made these redundant tasks more accessible and user friendly.
-- **Its benefits:**
-- Single point of access to control those exchange instances.
-- Can be used to check status, restart the instance, send fix messages, view logs, perform netadmin commands on those exchanges.
+- Architected an **AI Agent Factory** and **Skill Factory** to automate complex development and testing lifecycles, accelerating time-to-market
+- Engineered **self-evolving autonomous agents** with stateful memory — nightly prompt evaluations drive continuous accuracy optimization
+- Designed a **node-based Visual Workflow Builder** and Chat UI for seamless agent-to-agent communication and user-driven automations
+- Built a **Meta Agent routing layer** that parses requests, delegates to specialized sub-agents, and consolidates responses
+- Developed a custom **RAG pipeline** over proprietary project documentation, drastically reducing onboarding time
+- Embedded automated **data-quality verification gates** into real-time Kafka streams and PySpark batch pipelines for trade and risk datasets
 
+### Infosys — Python Developer / QA (Morgan Stanley, Exchange Connectivity)
+*Oct 2019 – Apr 2024 · Montreal, QC*
 
-# PERSONAL PROJECTS:
-**Expense Manager:**
-Developed a Django-based money tracking app automating expense management. Offers spending analysis, insights, and AI-driven suggestions with Language Model (LLM) technology. Demonstrates expertise in web development, data analysis, and AI integration.
-Project link: [expenseTracker](https://github.com/manimaran990/expenseTracker)
+- Engineered an **Exchange Connectivity Dashboard** (FastAPI/Flask backend, SPA frontend) to control exchange instances, send FIX messages, and manage jobs from a single place
+- Built regression and **FIX message replay** frameworks, delivering ~40% performance improvement in testing efficiency
+- Led the **Xray/Jira integration service** — a FastAPI test-manager service automating test execution and Jira sanity for multiple internal teams
 
-**Second Brain:** 
-Innovated a user-friendly note-taking app with ChatGPT-like interface.
-Supports various formats (URLs, YouTube links, images, Markdown) and features Chrome plugins and a Telegram bot for added convenience.
-Utilizes LLM models for intelligent categorization, showcasing proficiency in natural language processing and AI-driven classification.
-Project link: [Second Brain](https://github.com/manimaran990/secondBrain)
+### Infosys — Python Developer (Morgan Stanley, Offshore)
+*Sep 2018 – Oct 2019 · India*
 
+- Python ETL validation, schema checking, and dataset reconciliation; automated pipelines via Jenkins with pytest coverage
+- Piloted PySpark jobs to verify transformation logic for downstream risk analytics
+
+### Infosys — Technology Engineer (Citi, Payments & Digitization)
+*Dec 2015 – Sep 2018 · Chennai, India*
+
+- Built an **Ingestion Testing framework** (Kafka/HBase) cutting test reporting from 40 minutes to 2 minutes; validates 1M+ records with 300+ columns in under 3 minutes
+- Developed a **Payment Tracker** utility tracing high-speed transactions across Kafka, HBase, and Ignite for compliance and environment readiness
+
+---
+
+## 🚀 Projects
+
+### TradesPulse
+AI-powered missed-call and lead-tracking platform for trades businesses — converting missed calls into actionable leads with automated follow-up.
+*Status: in active development (private repo)*
+
+### Mississauga Lead Feed
+Automated local lead-scraping and delivery pipeline for Mississauga/Toronto — scheduled scraping, enrichment, and notification workflows.
+*Status: in active development (private repo)*
+
+### Self-Hosted AI Homelab
+Docker-based private AI infrastructure: local LLM inference, multi-agent orchestration, self-hosted productivity and note-taking apps — built for privacy-first, air-gapped operation.
+
+### Earlier projects
+- [Expense Tracker](https://github.com/manimaran990/expenseTracker) — Django money-tracking app with spending analysis and LLM-driven suggestions
+- [Second Brain](https://github.com/manimaran990/secondBrain) — ChatGPT-style note-taking app ingesting URLs, YouTube links, images and Markdown, with a Chrome plugin and Telegram bot
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)** — College of Engineering Guindy, India (2015)
+
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyspark/pyspark-original.svg" alt="PySpark" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+</p>
