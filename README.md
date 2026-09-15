@@ -81,6 +81,8 @@ Full badge wallet: [Credly Profile](https://www.credly.com/users/manimaran-gandh
 
 Five production-pattern agent systems showcasing the 2025/26 industry stack — MCP, human-in-the-loop, multi-agent supervision, GraphRAG, hybrid local/cloud inference, evals & observability. Each runs with a single `docker compose up`, is demoable live in 5–8 minutes, and streams traces to a Langfuse/Phoenix dashboard.
 
+> **Status: all five are built and tested.** Private repos on GitHub (`manimaran-portfolio/*`): [chaosagent](https://github.com/manimaran-portfolio/chaosagent) · [tradebreak-copilot](https://github.com/manimaran-portfolio/tradebreak-copilot) · [forensicrag](https://github.com/manimaran-portfolio/forensicrag) · [sentinelstream](https://github.com/manimaran-portfolio/sentinelstream) · [risktwin](https://github.com/manimaran-portfolio/risktwin)
+
 ### 1. TradeBreak Copilot — Settlement Break Resolution Agent
 Autonomous agent that reconciles broken trades across multi-broker FIX feeds, diagnoses root causes, and generates auditable repair tickets — with a hard human-approval gate above $10K exposure.
 **Stack:** LangGraph (HITL interrupt states) · MCP server exposing FIX simulator + mock OMS + DuckDB · Claude (reasoning) + local Ollama (PII redaction) · NeMo Guardrails + DeepEval · Langfuse tracing · Streamlit diff viewer.
