@@ -77,46 +77,6 @@ Full badge wallet: [Credly Profile](https://www.credly.com/users/manimaran-gandh
 
 ---
 
-## 🤖 Agentic AI Portfolio Projects
-
-Five production-pattern agent systems showcasing the 2025/26 industry stack — MCP, human-in-the-loop, multi-agent supervision, GraphRAG, hybrid local/cloud inference, evals & observability. Each runs with a single `docker compose up`, is demoable live in 5–8 minutes, and streams traces to a Langfuse/Phoenix dashboard.
-
-> **Status: all five are built and tested.** Private repos on GitHub (`manimaran-portfolio/*`): [chaosagent](https://github.com/manimaran-portfolio/chaosagent) · [tradebreak-copilot](https://github.com/manimaran-portfolio/tradebreak-copilot) · [forensicrag](https://github.com/manimaran-portfolio/forensicrag) · [sentinelstream](https://github.com/manimaran-portfolio/sentinelstream) · [risktwin](https://github.com/manimaran-portfolio/risktwin)
-
-### 1. TradeBreak Copilot — Settlement Break Resolution Agent
-Autonomous agent that reconciles broken trades across multi-broker FIX feeds, diagnoses root causes, and generates auditable repair tickets — with a hard human-approval gate above $10K exposure.
-**Stack:** LangGraph (HITL interrupt states) · MCP server exposing FIX simulator + mock OMS + DuckDB · Claude (reasoning) + local Ollama (PII redaction) · NeMo Guardrails + DeepEval · Langfuse tracing · Streamlit diff viewer.
-**Demo flow:** inject 20-trade batch with 3 breaks → agent detects break signatures via MCP tools → proposes correction with confidence score → **HITL pause** on >$10K break → approve → show ledger update + full Langfuse trace.
-*Demonstrates: MCP tool design, HITL/checkpointed state graphs, legacy financial infra integration, audit compliance.*
-
-### 2. ChaosAgent — Automated LLM Red-Teaming Harness
-Multi-agent adversarial swarm that jailbreak-stress-tests LLM applications, scores vulnerabilities against the OWASP GenAI Top 10, and auto-generates pytest regression suites from every failure.
-**Stack:** LangGraph swarm (Attacker / Target-proxy / Judge agents) · PyRIT + Giskard + pytest · PostgreSQL attack-vector lineage · Arize Phoenix tracing · HTML report generator.
-**Demo flow:** point Attacker at a mock financial assistant → multi-turn jailbreak evolves (obfuscation → Base64 → recursive framing) → Judge flags LLM01/LLM06 → one command emits a failing pytest case wired into CI.
-*Demonstrates: automated red-teaming, continuous eval pipelines, QA-to-LLMOps depth — perfect for a Test Architect profile.*
-
-### 3. SentinelStream — Real-Time Market Surveillance Agents
-Streaming multi-agent surveillance engine that triages high-throughput trader chatter locally and escalates only anomalies to a frontier cloud agent for investigation.
-**Stack:** Kafka (100 msg/s simulated Bloomberg chats) · local vLLM 7B triage filter (~35ms, 95% of benign traffic, $0 API cost) · Claude escalation agent · Redis sliding context + LanceDB precedent search · Prometheus/Grafana · WebSocket alert dashboard.
-**Demo flow:** stream routine chatter (95% filtered locally) → inject collusion + abnormal options volume → escalation agent drafts an SEC TCR-compliant narrative with timestamps → Grafana shows cost/latency/edge-offload metrics.
-*Demonstrates: hybrid local/cloud LLM tiering, latency-critical streaming, cost engineering, regulatory domain fluency.*
-
-### 4. ForensicRAG — Graph-Native Financial Document Intelligence
-GraphRAG system that parses multi-year 10-Ks and earnings calls into a Neo4j knowledge graph to expose cross-filing contradictions — with citations down to the PDF bounding box.
-**Stack:** Neo4j + LlamaIndex PropertyGraphIndex · Docling (structure-preserving table parsing) · Claude + text-embedding-3-large · Ragas + TruLens faithfulness evals · Streamlit graph explorer with PDF deep-links.
-**Demo flow:** ingest two 10-Ks + earnings transcript → ask "compare executive debt-maturity claims vs. footnote commitments" → multi-hop traversal surfaces a $45M contradiction, cites exact nodes and highlights the source PDF region → Ragas report shows Faithfulness = 1.0.
-*Demonstrates: why vector-only RAG fails on tabular financial data, GraphRAG multi-hop reasoning, grounded citations, hallucination evals.*
-
-### 5. RiskTwin — Multi-Agent Market Stress-Testing Simulator
-Hierarchical persona-driven agent swarm (Market Maker, Hedge Fund, Retail Sentiment) simulates systemic shocks and cascading liquidity effects on a live portfolio, ending in an executive risk memo.
-**Stack:** LangGraph supervisor + shared blackboard memory · NumPy/SciPy/Riskfolio-Lib (VaR, expected shortfall, market impact) · Claude reasoning · Plotly reactive dashboards.
-**Demo flow:** seed a $500M portfolio + "50bps surprise rate hike + regional bank credit freeze" → agents react step-by-step (spread widening, stop-loss liquidations, panic redemptions) → charts show VaR spiking live → Supervisor compiles a Risk Committee Memo with contagion paths and hedge recommendations.
-*Demonstrates: hierarchical multi-agent supervision, shared-state blackboard architecture, LLM + quantitative modeling fusion.*
-
-**Common build standards across all five:** typed Pydantic schemas everywhere (no prompt salad) · Langfuse/Phoenix tracing with token & latency telemetry · `DEMO_MODE=deterministic|live` toggle so no live demo can flake · hybrid local/cloud LLM routing with local Ollama/vLLM fallback · single-command `docker compose up` bootstrap · 90-second demo GIF in each README.
-
----
-
 ## 🚀 Independent & Product Projects
 
 ### TradesPulse
