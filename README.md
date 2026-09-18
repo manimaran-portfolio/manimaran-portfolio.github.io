@@ -4,7 +4,7 @@
 
 📍 Mississauga, Ontario, Canada
 🔗 [Portfolio](https://manimaran-portfolio.github.io/) · [LinkedIn](https://www.linkedin.com/in/manimaran-g2707/) · [Credly Badges](https://www.credly.com/users/manimaran-gandhikumar.50614893)
-✉️ manimaran990@gmail.com
+✉️ mani.canada09@gmail.com
 
 ---
 
